@@ -1,0 +1,9 @@
+<?php
+
+/* Parent */
+
+class Vehicle
+{
+
+}
+
